@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joekupernik
 - 👀 I’m interested in building tools for the human race
-- 🌱 I’m currently learning React and Java Script
+- 🌱 I’m currently enrolled in Codecademy
 - 💞️ I’m looking to collaborate on Meaningful projects
 - 📫 How to reach me send me a comment 
 
